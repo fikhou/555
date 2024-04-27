@@ -1,0 +1,5 @@
+# config/packages/mailer.yaml
+
+framework:
+    mailer:
+        dsn: 'smtp://smtp.gmail.com:587?encryption=tls&auth_mode=login&username=entreprisefakhrihammemi@gmail.com&password=20928338-'
